@@ -24,7 +24,8 @@ jobs:
     - name: Build
       # Add additional options to the MSBuild command line here (like platform or verbosity level).
       # See https://docs.microsoft.com/visualstudio/msbuild/msbuild-command-line-reference
-      run: echi building...
+      run: echo building...
       
     - name: Run tests
       run: echo running tests
+           echo all tests passed
