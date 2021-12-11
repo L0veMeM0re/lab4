@@ -27,5 +27,6 @@ jobs:
       run: echo building...
       
     - name: Run tests
-      run: echo running tests ####
-           all tests passed
+      run: echo all_tests_passed
+
+    
