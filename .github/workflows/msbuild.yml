@@ -20,5 +20,4 @@ jobs:
     - uses: ilammy/msvc-dev-cmd@v1
     - run: build
     
-    
-    - run: build
+
